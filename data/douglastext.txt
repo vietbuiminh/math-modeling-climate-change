@@ -1,0 +1,53 @@
+# Douglas - Blanca Peak - PIAR - CO562, PAGES North America 2k Version
+#-----------------------------------------------------------------------
+#               World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite original publication, online resource and date accessed when using these data,
+# If there is no publication information, please cite investigator, title, online resource and date accessed.
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/1000173
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/reconstructions/pages2k/namerica2k/nam-tr_61-co562-1200-1987.txt
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo/study/3123
+#
+# Archive: Tree Ring
+#-------------------
+# Contribution_Date
+# Date: 2013-05-15
+#-------------------
+# Title: Douglas - Blanca Peak - PIAR - CO562, PAGES North America 2k Version
+#-------------------
+# Investigators: Douglas, D.L.
+#-------------------
+# Description_Notes_and_Keywords
+#  Description:
+#
+#-------------------
+# Site Information
+# Site_Name:  Blanca Peak
+# Northernmost_Latitude: 37.55
+# Southernmost_Latitude: 37.55
+# Easternmost_Longitude: -105.42
+# Westernmost_Longitude: -105.42
+# Elevation: 3720
+#-------------------
+# Data Collection
+# Collection_Name:  NAm-TR_61-co562-1200-1987
+# First_Year: 1200
+# Last_Year: 1987
+# Time_Unit: AD
+# Notes:
+#-------------------
+# Species
+# Species_Name: Pinus aristata Engelm.
+# Common_Name: Rocky Mountain bristlecone pine
+#-------------------
+# Variables
+#   variables format: shortname <tab> 9 var components: what,material,error,units,season,archive,detail,method, C or N for Char or Numeric data
+## age_AD  Age,,,years AD,,,,,N
+## trsgi.0mean   Tree Ring Standardized Growth Index,,,unitless,,Tree Ring,mean of zero,,N
+#
+#--------------------------
+# Data
+# Missing Value: -999

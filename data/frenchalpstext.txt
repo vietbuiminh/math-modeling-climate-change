@@ -1,0 +1,96 @@
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite original reference when using these data,
+# plus the Online Resource and date accessed.
+#
+#
+# Archive: Tree-ring
+#--------------------
+# Contribution_Date
+#	Date: 2013-05-15
+#--------------------
+# Title
+#	Study_Name:  French Alps, 969 - 2007 AD, tree ring width, Larch
+#--------------------
+# Investigators
+#       Investigators: B�ntgen, U.; Frank, D.; Neuenschwander, T.; Esper, J.
+#--------------------
+# Description_and_Notes
+#	Description:  Increment cores from a total of 297 living and dead European larch (Larix decidua Mill.) trees were newly collected at three sites (1, 2, 3) within the same ecological context as the original site 4 (Serre 1978). 
+#       A unique network >3000 TRW series from 61 locations distributed over the Austrian, Swiss, Slovenian, Italian, and French Alps (see B�ntgen et al. 2008a for details) was utilized
+#       for an Alpine-wide comparison of larch growth responses to variations in summer temperature. The geographical mean of this exceptional Alpine-wide collection is centered
+#       over the Italian Dolomites (46.63 �N, 11.86 �E and 1,667 m asl).
+#--------------------
+# Publication
+#       Authors: B�ntgen, U., D. Frank, T. Neuenschwander and J. Esper
+#       Published_Date_or_Year: 2012-01-23
+#       Published_Title: Fading temperature sensitivity of Alpine tree growth at its Mediterranean margin and associated effects on large-scale climate reconstructions
+#       Journal_Name: Climatic Change
+#       Volume: 114
+#       Edition: 
+#       Issue:
+#       Pages: 651-666
+#       Report_Number: 
+#       DOI: 10.1007/s10584-012-0450-4
+#       Publication_Place: Heidelberg, Germany
+#       Publisher: Springer Science+Business Media
+#       ISBN: 0165-0009
+#       Online_Resource: http://link.springer.com/article/10.1007%2Fs10584-012-0450-4
+#       Other_Reference_Details: 
+#       Abstract: A millennium-long tree-ring width chronology of living and dead larch (Larix decidua Mill.) specimens from the Maritime French Alps was introduced 35 years ago. This
+#       record has been included in various large-scale temperature reconstructions, though recent analyses revealed only weak associations with regional summer temperatures. Calibration
+#       and verification trials against instrumental measurements were, however, limited by the original record�s early ending in 1974. Here we introduce an update of this widely considered
+#       chronology until 2007 and back into medieval times. A total of 297 new larch samples from high-elevation settings in the southern French Alps were included, and the combined
+#       398 measurement series allowed effects of tree-ring detrending and chronology development to be explored. Comparisons with meteorological temperature, precipitation and drought
+#       indices revealed weak and temporally inconsistent climate sensitivity. To further place these local findings in a biogeographic context, we used >3,000 larch trees from 61 locations
+#       across the Alpine arc. This unique network approach confirmed fading temperature sensitivity with decreasing latitude, and thus questioned the overall reliability of ring width-based
+#       temperature reconstructions in the Mediterranean region. Our results further emphasize the pending need to develop chronologies from maximum latewood densities and stable isotope
+#       ratios across the lower latitudes, and to carefully evaluate ecological site conditions and methodological data restrictions prior to compiling local data into global networks.
+#------------------
+# Funding_Agency
+#       Funding_Agency_Name: European Union
+#       Grant: EC project MILLENNIUM (017008-GOCE)
+#------------------
+# Funding_Agency
+#       Funding_Agency_Name: Swiss National Science Foundation
+#       Grant: National Centre for Competence in Climate Research (NCCR-Climate).
+#------------------
+# Site_Information 
+#       Site_Name: Maritime French Alps
+#       Location: Europe>Western Europe
+#	Region: PAGES Euro Med 2k
+#	Country: Europe
+#	Northernmost_Latitude: 44
+# 	Southernmost_Latitude: 44
+# 	Easternmost_Longitude: 7.5
+# 	Westernmost_Longitude: 7.5
+# 	Elevation: 2100 m
+#------------------
+# Data_Collection
+#	Collection_Name: French Alps 12
+#	Earliest_Year: 969
+#	Most_Recent_Year: 2007
+#	Time_Unit: years AD
+#	Core_Length:
+#	Notes: This dataset is about French alps Tree ring data; PAGES ID, Eur_8; Correlation with temperature, positive, CRUTEM4v ;
+#------------------
+# Species
+#
+#	Species_Name: Larix decidua Mill.
+#	Common_Name: European Larch
+#------------------
+#
+# Chronology:
+#
+#----------------	
+# Variables
+#
+Year_AD 	year       ,    , , calendar years AD ,,, , , N
+TRW_Index   	TRW Index  , TRW, , Index [ no units ], warm season temperatures , Tree ring,  Index , , N
+#
+#----------------
+# Data
+#
